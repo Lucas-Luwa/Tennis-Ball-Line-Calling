@@ -13,7 +13,7 @@ To set up the Tennis Ball Line Calling System, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/your-username/Tennis_Ball_Line_Validator.git
+git clone https://github.com/your-username/Tennis_Ball_Line_Calling.git
 
 2. Download Iriun webcam and ensure that your devices are able to communicate with the program. 
 
