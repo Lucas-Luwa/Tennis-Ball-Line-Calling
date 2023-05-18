@@ -1,5 +1,5 @@
-**Tennis Ball Line Calling System** <br>
-The Tennis Ball Line Calling System is a computer vision-based project that utilizes two Motorola G4 Play cell phone cameras and the OpenCV library to detect tennis balls on a court and accurately determine whether they are in or out of bounds. For more information about this project, feel free to visit my website: https://lucasluwa.com/Projects/Individual/Tennis/BallDetection
+**Tennis Ball Line Calling System** <br><br>
+The Tennis Ball Line Calling System is a computer vision-based project that utilizes two Motorola G4 Play cell phone cameras and the OpenCV library to detect tennis balls on a court and accurately determine whether they are in or out of bounds. For more information about this project, feel free to visit my website:<br><br> https://lucasluwa.com/Projects/Individual/Tennis/BallDetection
 
 **Features**
 - Real-time Ball Detection: The system utilizes the live video feed from the two Moto G4 Play cell phone cameras positioned on the corner of the tennis court. The frames from these cameras are processed in real-time using OpenCV, allowing for quick and accurate ball detection.
